@@ -1,3 +1,5 @@
+[![Riho's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlho)](https://github.com/rlho/github-readme-stats)
+
 Hi there 👋
 ### 👩‍💻 I'm...
 - Riho Takagi

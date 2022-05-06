@@ -1,17 +1,15 @@
 [![Riho's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlho)](https://github.com/rlho/github-readme-stats)
 
-Hi there 👋
+Hi there 👋 I'm Riho(Ritz)
 ### 👩‍💻 I'm...
-- Riho Takagi
-- Rubyist💎
-- a Fullstack Software Engineer
-- Organized RailsGirls Tokyo 11th, DevFest Women Tokyo 2019, TokyoGirls.rb
-- Senior Web developer working at Waffle.org
-- A programming mentor at fjordbootcamp
-- Interested in web3
+- 🏗 Building in web3.
+- 💎Rubyist
+- 👩‍💻 a Fullstack Software Engineer
+- 🗣Organized RailsGirls Tokyo 11th, DevFest Women Tokyo 2019, TokyoGirls.rb
+- 🧇Senior Web developer working at Waffle.org
 
 ### 😎 Love...
-- Ruby, Ruby on Rails, Web3, TypeScript, React, Next.js, BigQuery, CloudFunction, AWS, GCP
+- Web3, Ruby, Ruby on Rails, Solidity, TypeScript, React, Next.js, BigQuery, CloudFunction, AWS, GCP
 - 🍷🍺🍖🍣🍰
 
 ### 🏝️ Location
@@ -33,5 +31,5 @@ It's a podcast with two women talking about things related to technology.
 
 
 ### 😄 Pronouns
-No pronouns (call me Riho or Rio if you need).
+No pronouns (call me Ritz if you need).
 

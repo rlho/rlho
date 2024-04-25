@@ -1,12 +1,14 @@
 [![Riho's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlho)](https://github.com/rlho/github-readme-stats)
 
-Hi there 👋 I'm Riho(Ritz)
+Hi there 👋 I'm Riho
 ### 👩‍💻 I'm...
 - 🏗 Building in web3.
 - 💎Rubyist
 - 👩‍💻 a Fullstack Software Engineer
 - 🗣Organized RailsGirls Tokyo 11th, DevFest Women Tokyo 2019, TokyoGirls.rb
+- Podcaster
 - 🧇Senior Web developer working at Waffle.org
+- ✨Technovation girls japan chaptor coding leader.
 
 ### 😎 Love...
 - Web3, p5js, Typescript, Ruby, Ruby on Rails, Solidity, React, Next.js, BigQuery, CloudFunction, AWS, GCP
